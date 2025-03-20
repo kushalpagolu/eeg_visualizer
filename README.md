@@ -199,7 +199,7 @@ Ensure the Emotiv Epoch X headset is properly connected to your computer.
 5. Run the Code
 Start the real-time visualization and data processing.
 
-python visualizer.py
+python visualizer_streamer.py
 
 6. Testing Without Drone (Optional)
 If you want to test the system without connecting the drone, ensure the drone controller is set to **False** in the code and run the script.
